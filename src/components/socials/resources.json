@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_socials_resources",
+  "info": {
+    "displayName": "resources",
+    "icon": "user-plus",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "website": {
+      "type": "string"
+    },
+    "github": {
+      "type": "string"
+    },
+    "youtube": {
+      "type": "string"
+    },
+    "frontendMentor": {
+      "type": "string"
+    }
+  }
+}
